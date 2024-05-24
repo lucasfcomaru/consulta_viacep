@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="/assets/banner-viacep-api.png"/>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/lucasfcomaru/consulta_viacep?style=for-the-badge" alt="Repo size" title="Repo size"/>
     <img src="https://img.shields.io/github/languages/count/lucasfcomaru/consulta_viacep?style=for-the-badge" alt="Language count" title="Language count"/>
